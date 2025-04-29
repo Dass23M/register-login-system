@@ -158,7 +158,7 @@ Add screenshots of your UI here for better visual reference.
 
 ## 🙌 Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [DASUN METHMAL](https://github.com/Dass23M)
 
 ---
 
